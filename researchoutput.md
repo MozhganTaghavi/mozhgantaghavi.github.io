@@ -5,3 +5,4 @@ research has focused on calculus of variations and numerical methods to approxim
 and I aspire to apply this knowledge in more practical contexts, particularly in biology,
 environmental science, engineering, and related fields. I aim to connect theoretical research with
 practical and real‑world applications and contribute to these domains’ advancements.
+Research Output
