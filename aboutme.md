@@ -1,6 +1,3 @@
----
-layout: page
-title: About me
----
+I am a lifelong learner, problem-solver, and researcher with a background in applied mathematics, driven by a deep interest in connecting mathematical theory with modern computational methods. Over time, I have become increasingly motivated to study machine learning and data-driven approaches, recognising how these tools can translate mathematical ideas into practical solutions for real-world problems.
 
-I am a lifelong learner and researcher with a background in applied mathematics. My work focuses on integrating mathematics with machine learning and data-driven methods to study complex systems. I am particularly interested in developing analytical and computational approaches that bridge theoretical foundations with real-world applications.
+My current work focuses on integrating mathematics with AI-based techniques to better understand complex systems. I enjoy tackling problems from both analytical and computational perspectives and am motivated by the challenge of transforming abstract concepts into methods that generate insight, prediction, or impact.
