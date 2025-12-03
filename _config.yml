@@ -248,19 +248,19 @@ terser:
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-jekyll-archives:
-  posts:
-    enabled: false
+#jekyll-archives:
+ # posts:
+  #  enabled: false
     #[year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-    permalinks:
-      year: "/blog/:year/"
-      tags: "/blog/:type/:name/"
-      categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+   # permalinks:
+    #  year: "/blog/:year/"
+    #  tags: "/blog/:type/:name/"
+     # categories: "/blog/:type/:name/"
+ # books:
+   # enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+#display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+#display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -354,8 +354,8 @@ imagemagick:
   enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
-    - 700
-    - 1000
+    - 800
+    - 1400
   input_directories:
     - assets/img/
   input_formats:
@@ -386,7 +386,7 @@ enable_openpanel_analytics: false # enables Openpanel analytics (https://openpan
 enable_google_verification: false # enables google site verification
 enable_bing_verification: false # enables bing site verification
 enable_masonry: false# enables automatic project cards arrangement
-enable_math: true # enables math typesetting (uses MathJax)
+enable_math: false # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: false # enables switching between light/dark modes
 enable_navbar_social: false # enables displaying social links in the navbar on the about page
