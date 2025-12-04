@@ -27,7 +27,8 @@ I have contributed to both theoretical and applied research across numerical ana
 *Existence of σ₂,ₚ-energy functional and polyconvexity.*
 51st Annual Iranian Mathematics Conference, 2021 (Presentation).
 
-** Projects**
+**Projects**
+
 ***Discontinuous Finite Element Method for a Delay Differential Equation***, 2013.
 
 ***Numerical Method for a Zero-Dimensional Lumped-Parameter Blood Flow Model***, 2025.
