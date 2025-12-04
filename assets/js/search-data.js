@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "My research integrates applied mathematics, numerical analysis, and machine learning to study complex problems. I combine analytical and numerical methods to translate theoretical concepts into practical solutions. To support this work, I use Python and MATLAB to approximate solutions, develop models, and analyze complex datasets, allowing me to apply both numerical and data-driven techniques effectively.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
