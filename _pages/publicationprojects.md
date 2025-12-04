@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Contributions
-permalink: /publications & projects/
+permalink: /publications and projects/
 #description: This is my research output
 nav: true
 nav_order: 3
