@@ -1,5 +1,5 @@
 ---
-layout: About me
+layout: about
 title: About me
 permalink: /
 subtitle:
