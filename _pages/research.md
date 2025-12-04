@@ -6,7 +6,7 @@ title: Research
 nav: true
 nav_order: 2
 ---
-My research integrates applied mathematics, numerical analysis, and machine learning to study complex problems. I combine analytical and numerical methods to translate theoretical concepts into practical solutions. To support this work, I use Python and MATLAB to approximate solutions, develop models, and analyze complex datasets, allowing me to apply both numerical and data-driven techniques effectively.
+My research integrates applied mathematics, numerical analysis, and machine learning to study complex problems. I combine analytical and numerical methods to translate theoretical concepts into practical solutions. To support this work, I use **Python** and **MATLAB** to approximate solutions, develop models, and analyze complex datasets, allowing me to apply both numerical and data-driven techniques effectively. My passion lies in continuous learning and staying updated with the latest advancements in my field. 
 
 **1. Mathematical Modeling and Applied Mathematics**
 
