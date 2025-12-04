@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /courses/
+permalink: /people/
 title: courses
 description: the courses that I have enrolled in.
 nav: true
