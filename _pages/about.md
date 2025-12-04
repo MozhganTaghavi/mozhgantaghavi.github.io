@@ -9,8 +9,8 @@ profile:
   align: left
   image: prof_pic1.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p> A researcher in applied mathematics </p>
+  more_info: 
+    <p> A researcher in mathematics </p>
     <p> and artificial intelligence </p>
     <p>mojgan.taghavi88@gmail.com</p>
 
