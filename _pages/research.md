@@ -24,6 +24,8 @@ Building on my mathematical and computational foundation, I am currently focused
   - mathematical modelling
   - optimization
   - machine learning
+  - mathematics in AI
+  - numerical analysis
   - differential equations
   - mathematical biology
 
