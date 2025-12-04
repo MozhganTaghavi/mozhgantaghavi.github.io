@@ -11,7 +11,7 @@ horizontal: false
 Beyond my mathematics coursework, I have pursued independent studies in **programming**, **machine learning**, and **deep learning**. This journey began with strengthening my programming skills, especially in **Python**, which provided the foundation I needed to move into the field of **artificial intelligence**. I then expanded my studies to a broader range of machine learning and deep learning topics, including **supervised and unsupervised** methods, regression and classification techniques, clustering, dimensionality reduction, and neural network architectures. I worked hands-on with these concepts using **scikit-learn** and **PyTorch**. Together, this multi-layered learning experience has helped me build a solid theoretical understanding, solid coding proficiency, and the ability to apply computational and data-driven methods to complex problems.
 
 
-##Courses with Certificates
+## Courses with Certificates
 
 - **Supervised Machine Learning: Regression and Classification**, Coursera, Stanford University — 2023.
    
