@@ -24,11 +24,11 @@ ninja.data = [{
             window.location.href = "/publications%20and%20projects/";
           },
         },{id: "nav-courses",
-          title: "courses",
+          title: "Courses",
           description: "This is my course",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/courses/";
+            window.location.href = "/Courses/";
           },
         },{id: "nav-teaching",
           title: "teaching",
