@@ -26,4 +26,4 @@ Teaching has always been one of my strongest passions. My teaching roles have en
 
 - Khaneh Mehr Ali Charity, 2017–2019.
 - Vesal Educational Charity, 2025–Present.
-Provided mathematics and reading instruction to childern, strengthening foundational skills and supporting their educational development.
+- Provided mathematics and reading instruction to childern, strengthening foundational skills and supporting their educational development.
